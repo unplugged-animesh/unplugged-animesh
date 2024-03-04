@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @unplugged-animesh
 
--👀 I’m interested in machine learning and AI
--🌱 I’m currently learning advanced neural network architectures
--💞️ I’m looking to collaborate on open-source ML projects
+👀 I’m interested in machine learning and AI
+🌱 I’m currently learning advanced neural network architectures
+💞️ I’m looking to collaborate on open-source ML projects
 
 
 <!---
